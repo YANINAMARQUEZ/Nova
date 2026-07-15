@@ -1,11 +1,11 @@
 # Nova E-commerce
 
-Proyecto de tienda en React + Vite con un catálogo profesional de 100 productos y estilo azul-verde.
+Proyecto de tienda en React + Vite con un catálogo profesional de 100 productos y un estilo tecnológico moderno.
 
 ## Qué incluye
 
 - Catálogo con `100 productos` generados localmente en `src/data/products.js`
-- Estilos profesionales y modernos aplicados en `src/style.css`
+- Estilos profesionales, modernos y oscuros aplicados en `src/style.css`
 - Carga de productos desde backend con fallback local si la API no está disponible
 - Componentes principales:
   - `src/pages/Catalogo.jsx` para mostrar el catálogo
@@ -17,7 +17,7 @@ Proyecto de tienda en React + Vite con un catálogo profesional de 100 productos
 
 - `src/data/products.js`: define 100 productos con nombre, categoría, precio, imagen y descripción.
 - `src/services/api.js`: usa `axios` para llamadas al backend. Si falla la petición, retorna el catálogo local.
-- `src/style.css`: configuración de tema azul/verde, tarjetas con sombra, botones con gradiente y diseño responsivo.
+- `src/style.css`: configuración de tema azul oscuro, tarjetas con sombra, botones azules y diseño responsivo.
 - `src/components/ProductCard.jsx`: muestra imagen, nombre, descripción y precio de cada producto.
 - `src/App.jsx`: rutas principales de la app.
 
