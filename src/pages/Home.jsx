@@ -19,10 +19,10 @@ export default function Home() {
     <>
       <section className="hero-panel">
         <div className="hero-copy">
-          <span className="hero-kicker">Bienvenido a NOVA MARQUEK</span>
+          <span className="hero-kicker">Bienvenido a NOVA </span>
           <h1>La  mejor tienda tecnológica </h1>
           <p>
-            Descubre más de 100 productos inteligentes y funcionales, con diseño profesional y un
+            Descubre los productos   productos más  inteligentes y funcionales, con diseño profesional y un
             layout limpio pensado para una experiencia rápida.
           </p>
           <div className="hero-actions">
